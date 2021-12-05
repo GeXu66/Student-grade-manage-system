@@ -1,3 +1,2 @@
 # GeXu66
-a fresh man
-adopt a lot of choices,it must be an amazing system!
+学会成绩管理系统
